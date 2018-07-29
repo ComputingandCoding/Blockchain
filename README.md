@@ -15,3 +15,4 @@ https://github.com/namangupta9/blockchain
 
 7. https://speakerdeck.com/nando1970/bitcoin-and-blockchain-technology-elliptic-curve-cryptography
 
+8. https://github.com/UniversityOfNicosia/blockchain-certificates
