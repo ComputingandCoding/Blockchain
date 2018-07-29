@@ -13,3 +13,5 @@ https://github.com/namangupta9/blockchain
 
 6. https://github.com/satwikkansal/ibm_blockchain
 
+7. https://speakerdeck.com/nando1970/bitcoin-and-blockchain-technology-elliptic-curve-cryptography
+
