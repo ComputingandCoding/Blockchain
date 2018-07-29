@@ -1,5 +1,5 @@
 # Blockchain
 1. A Practical Introduction to Blockchain with Python
-*http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/
+[I'm an inline-style link] http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/
 2. Blockchain implementation workshop hosted at the University of Michigan Ross School of Business
-*https://github.com/namangupta9/blockchain
+ [I'm an inline-style link] https://github.com/namangupta9/blockchain
