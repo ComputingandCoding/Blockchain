@@ -16,3 +16,7 @@ https://github.com/namangupta9/blockchain
 7. https://speakerdeck.com/nando1970/bitcoin-and-blockchain-technology-elliptic-curve-cryptography
 
 8. https://github.com/UniversityOfNicosia/blockchain-certificates
+
+9. Blockchian demo https://guggero.github.io/blockchain-demo/#!/
+
+10.http://ecomunsing.com/build-your-own-blockchain
