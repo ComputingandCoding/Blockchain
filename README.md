@@ -29,3 +29,5 @@ https://github.com/namangupta9/blockchain
 
 14. York University http://theblockchainhub.com/
 
+15. HBR Article  "The Truth About Blockchain"  https://hbr.org/2017/01/the-truth-about-blockchain
+
