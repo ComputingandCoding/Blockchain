@@ -29,5 +29,11 @@ https://github.com/namangupta9/blockchain
 
 14. York University http://theblockchainhub.com/
 
-15. HBR Article  "The Truth About Blockchain"  https://hbr.org/2017/01/the-truth-about-blockchain
+15. http://blockchain.cs.ucl.ac.uk/
+
+16. HBR Article  "The Truth About Blockchain"  https://hbr.org/2017/01/the-truth-about-blockchain
+
+17. Solidity programming language, frameworks like web3.js for front-end secure interface programming, uPort for identity management capabilities, and the Ethereum platform.
+
+18/ http://blockchainu.co/upcoming/
 
